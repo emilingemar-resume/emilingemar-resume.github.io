@@ -10,9 +10,6 @@ safe: true
 url: emilingemar-resume.github.io
 author: Emil Karlsson
 
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
 title: Emil Karlsson's Resume
 name: Emil Karlsson
 email: emilingemarkarlsson@gmail.com
